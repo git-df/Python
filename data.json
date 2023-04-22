@@ -1,0 +1,104 @@
+[
+    {
+        "1": "Co to jest Python?",
+        "2": "Jakiego znaku używamy do komentarzy w Pythonie?",
+        "3": "Co wykona ten kod: print('Hello World')?",
+        "4": "Jakiego słowa kluczowego używamy do definiowania funkcji w Pythonie?",
+        "5": "Jaką funkcję używamy do wyświetlania tekstu w Pythonie?",
+        "6": "Jakie są podstawowe metody stringów w Pythonie?",
+        "7": "Jakie są podstawowe metody list w Pythonie?",
+        "8": "Jakie są podstawowe metody słowników w Pythonie?",
+        "9": "Jakie są podstawowe operatory logiczne w Pythonie",
+        "10": "Co oznacza skrót IDE?",
+	    "11": "Co oznacza symbol % w Pythonie?",
+	    "12": "Jakiego operatora używamy do tworzenia listy w Pythonie?"
+    },
+    {
+        "1": "Skryptowy język programowania",
+        "2": "#",
+        "3": "Wyświetla napis Hello World",
+        "4": "def",
+        "5": "print()",
+        "6": "split(), replace(), upper(), lower()",
+        "7": "append(), remove(), sort(), reverse()",
+        "8": "keys(), values(), items(), get()",
+        "9": "and, or, not",
+        "10": "Integrated Development Environment",
+	    "11": "Operator dzielenia modulo",
+	    "12": "[]"
+    },
+    {
+        "1": [
+            "Program do edycji tekstu",
+            "Format pliku graficznego",
+            "Skryptowy język programowania",
+            "System operacyjny"
+        ],
+        "2": [
+            "#",
+            "//",
+            "--",
+            "*"
+        ],
+        "3": [
+            "Wyświetla napis Hello World",
+            "Tworzy nowy plik o nazwie Hello World",
+            "Zmienia nazwę pliku na Hello World",
+            "Usuwa plik Hello World"
+        ],
+        "4": [
+            "define",
+            "function",
+            "def",
+            "func"
+        ],
+        "5": [
+            "display()",
+            "print()",
+            "show()",
+            "write()"
+        ],
+        "6": [
+            "add(), remove(), sort(), reverse()",
+            "split(), replace(), upper(), lower()",
+            "append(), extend(), insert(), pop()",
+            "keys(), values(), items(), get()"
+        ],
+        "7": [
+            "append(), remove(), sort(), reverse()",
+            "split(), replace(), upper(), lower()",
+            "add(), extend(), insert(), pop()",
+            "keys(), values(), items(), get()"
+        ],
+        "8": [
+            "append(), remove(), sort(), reverse()",
+            "add(), extend(), insert(), pop()",
+            "keys(), values(), items(), get()",
+            "split(), replace(), upper(), lower()"
+        ],
+        "9": [
+            "==, !=, >, <, >=, <=",
+            "+, -, *, /",
+            "+=, -=, *=, /=",
+            "and, or, not"
+        ],
+        "10": [
+            "Integrated Development Environment",
+            "Interactive Debugging Environment",
+            "Intelligent Design Environment",
+            "Interactive Development Environment"
+        ],
+	"11": [
+            "Operator dzielenia modulo",
+            "Operator dodawania",
+            "Operator mnożenia",
+            "Operator przypisania wartości"
+        ],
+	"12": [
+            "()",
+            "{}",
+            "<>",
+            "[]"
+        ]
+    }
+]
